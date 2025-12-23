@@ -62,7 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sewminiwijesiri&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewminiwijesiri&layout=compact&theme=dark" height="180"/>
+ 
 </div>
----
+
 
